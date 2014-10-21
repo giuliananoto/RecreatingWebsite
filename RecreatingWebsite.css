@@ -1,3 +1,32 @@
 body {
     background-image: url("creamtexturebackground.jpg");
 }
+
+p {
+    padding-top: 25px;
+    padding-right: 50px;
+    padding-bottom: 0px;
+    padding-left: 50px;
+}
+
+#middlepage {
+margin: 0 auto;
+background: url('images/hr.png') no-repeat right 26px;
+width: 1022px;
+overflow: hidden;
+
+#list {
+float: left;
+padding: 0;
+width: 220px;
+}
+
+#content {
+margin: 0;
+vertical-align: top;
+}
+
+#rightcolumn {
+     width: 750px;
+}
+
