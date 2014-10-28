@@ -14,7 +14,7 @@ body {
 	height: 620px;
 	padding: 5px;
 	background-color: transparent;
-	border-style: solid;
+	border-style: dashed;
 	border-width: 2px;
 	border-color: #7ec9de;
 	margin-left: auto;
@@ -31,6 +31,7 @@ body {
 	border-style: solid;
 	border: 2px;
 	border-color: black;
+
 }
 
 #middlepage {
@@ -48,7 +49,8 @@ ul {
 	width: 780px;
 	height: 580px; 
 	padding: 10px;
-	background-color: #C4DAD5;
+	background-color: #7ec9de;
+	opacity: 0.6;
 	margin-top: -620px;
 	margin-left: 240px; 
 	border:2px;
