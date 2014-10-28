@@ -2,15 +2,53 @@ body {
     background-image: url("creamtexturebackground.jpg");
 }
 
-p {
-    padding-top: 35px;
-    padding-right: 50px;
+#padding {
+    padding-top: 40px;
+    padding-right: 30px;
     padding-bottom: 0px;
-    padding-left: 50px;
+    padding-left: 30px;
+} 
+
+#bigbox {
+	width: 1200px;
+	height: 600px;
+	padding: 10px;
+	background-color: transparent;
+	border-style: solid;
+	border-width: 2px;
+	border-color: #7ec9de;
+}
+
+#square1 {
+	width: 200px;
+	height: 700px;
+	padding: 10px;
+	background-color: transparent;
+	margin-top: 20px;
+	border-style: solid;
+	border: 2px;
+	border-color: black;
+}
+
+#square2 {
+	width: 500px;
+	height: 700px; 
+	padding: 10px;
+	background-color: transparent;
+	margin-top: -550px;
+	margin-left: 500px; 
+	color: transparent;
+	border:2px;
+	border-color: black;
+
 }
 
 ul {
 	list-style-type: none;
+}
+
+#main {
+
 }
 
 #middlepage {
