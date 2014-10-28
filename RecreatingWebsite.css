@@ -27,22 +27,23 @@ body {
 	padding: 5px;
 	background-color: transparent;
 	margin-top: 20px;
-	margin-left: 20px;
+	margin-left: 10px;
 	border-style: solid;
 	border: 2px;
-	border-color: black;
+	border-color: transparent;
 
-}
-
-#middlepage {
-	margin: 0 auto;
-	background: url('images/hr.png') no-repeat right 26px;
-	width: 1022px;
-	overflow: hidden;
 }
 
 ul {
+	width: 200px;
+	height: 400px;
+	padding: 5px;
+	background-color: transparent;
+	margin-top: 20px;
+	margin-left: 10px;
 	list-style-type: none;
+	font-family: 'Roboto Condensed', sans-serif;
+	text-align: center;
 }
 
 #square2 {
@@ -52,7 +53,7 @@ ul {
 	background-color: #7ec9de;
 	opacity: 0.6;
 	margin-top: -620px;
-	margin-left: 240px; 
+	margin-left: 235px; 
 	border:2px;
 	border-color: black;
 
