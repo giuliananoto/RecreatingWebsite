@@ -3,16 +3,16 @@ body {
 }
 
 #padding {
-    padding-top: 30px;
+    padding-top: 25px;
     padding-right: 30px;
     padding-bottom: 0px;
     padding-left: 30px;
 } 
 
 #bigbox {
-	width: 1200px;
-	height: 600px;
-	padding: 10px;
+	width: 1050px;
+	height: 620px;
+	padding: 5px;
 	background-color: transparent;
 	border-style: solid;
 	border-width: 2px;
@@ -23,30 +23,14 @@ body {
 
 #square1 {
 	width: 200px;
-	height: 700px;
-	padding: 10px;
+	height: 600px;
+	padding: 5px;
 	background-color: transparent;
 	margin-top: 20px;
+	margin-left: 20px;
 	border-style: solid;
 	border: 2px;
 	border-color: black;
-}
-
-#square2 {
-	width: 500px;
-	height: 700px; 
-	padding: 10px;
-	background-color: transparent;
-	margin-top: -550px;
-	margin-left: 500px; 
-	color: transparent;
-	border:2px;
-	border-color: black;
-
-}
-
-ul {
-	list-style-type: none;
 }
 
 #middlepage {
@@ -54,16 +38,23 @@ ul {
 	background: url('images/hr.png') no-repeat right 26px;
 	width: 1022px;
 	overflow: hidden;
-
-#list {
-	float: left;
-	padding: 0;
-	width: 220px;
 }
 
-#content {
-	margin: 0;
-	vertical-align: top;
+ul {
+	list-style-type: none;
 }
+
+#square2 {
+	width: 500px;
+	height: 600px; 
+	padding: 10px;
+	background-color: #C4DAD5;
+	margin-top: -620px;
+	margin-left: 240px; 
+	border:2px;
+	border-color: black;
+
+}
+
 
 
