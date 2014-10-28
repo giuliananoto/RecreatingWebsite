@@ -43,8 +43,13 @@ ul {
 	margin-left: 10px;
 	list-style-type: none;
 	font-family: "Wire One", sans-serif;
-	font-weight: 100;
+	font-size: 35px;
 	text-align: center;
+}
+
+.listformat {
+	background-color: #7ec9de;
+	opacity: 0.6;
 }
 
 #square2 {
