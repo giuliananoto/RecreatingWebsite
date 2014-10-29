@@ -39,13 +39,14 @@ body {
 	font-size: 15px;
 	font-weight: 400;
 	font-style: italic;
+	color: #555758;
 	letter-spacing: 2px;
 	text-align: center;
 }
 
 ul {
 	width: 170px;
-	height: 400px;
+	height: 370px;
 	padding: 5px;
 	background-color: transparent;
 	margin-top: 20px;
